@@ -1,10 +1,10 @@
-#To Build
+# Build
 ```
 gcc client.cpp -o client
 gcc server.cpp -o server
 ```
 
-#To Run
+# Run
 In one terminal:
 ```
 ./client
