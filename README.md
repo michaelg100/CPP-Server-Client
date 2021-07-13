@@ -5,9 +5,11 @@ gcc server.cpp -o server
 ```
 
 #To Run
+In one terminal:
 ```
-//In one terminal
 ./client
-//In another terminal
+```
+In another terminal
+```
 ./server
 ```
